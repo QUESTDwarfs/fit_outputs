@@ -1,0 +1,1 @@
+This repository contains output files with posteriors and fitting results from various programs. Directories contain outputs files from the stated program, with each file corresponding to a single galaxy or QSO.
